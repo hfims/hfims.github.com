@@ -1,0 +1,19 @@
+---
+layout: default-zh
+title: HFI Mad Scientists 官方网站导航 (Beta)
+---
+<!--Still Testing-->
+<h2>{{ page.title }}</h2>
+<a href=/index.en.html>English</a>
+<br>
+<a href=http://hfimadscientists.oicp.net:8081>旧博客</a>
+<br />
+<a href=http://carldong.github.com>功能测试站点</a>
+<br>
+　　<p><strong>最新文章</strong></p>
+　　<ul class="posts">
+　　　　{% for post in site.posts %}
+　　　　　　<li><span>{{ post.date | date_to_string }}</span> <a href="{{ post.url }}">{{ post.title }}</a><br>
+　　　　{% endfor %}
+　　</ul>
+

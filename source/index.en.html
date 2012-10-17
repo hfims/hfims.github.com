@@ -1,0 +1,19 @@
+---
+layout: default-en
+title: HFI Mad Scientists Official Site Navigator(Alpha)
+---
+<h2>{{ page.title }}</h2>
+<a href=/index.html>中文</a>
+<br>
+<a href=http://hfimadscientists.oicp.net:8081>Previous Blog</a>
+<br />
+<a href=htt[://carldong.github.com>Function Testing Site</a>
+<br>
+
+
+	<p><strong>Latest Posts</strong>
+	<ul>
+		{% for post in site.posts %}
+		<li>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+		{% endfor %}
+	</ul>
