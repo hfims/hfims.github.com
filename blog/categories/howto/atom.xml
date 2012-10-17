@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: howto | HFI 科学狂人官网--Mad Scientists Official Site]]></title>
+  <link href="http://hfims.github.com/blog/categories/howto/atom.xml" rel="self"/>
+  <link href="http://hfims.github.com/"/>
+  <updated>2012-10-17T19:00:50+08:00</updated>
+  <id>http://hfims.github.com/</id>
+  <author>
+    <name><![CDATA[Rongcui Dong]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Activity 1--Smokebomb]]></title>
+    <link href="http://hfims.github.com/blog/2012/09/19/howto-smokebomb.en/"/>
+    <updated>2012-09-19T12:00:00+08:00</updated>
+    <id>http://hfims.github.com/blog/2012/09/19/howto-smokebomb.en</id>
+    <content type="html"><![CDATA[<p><a href="{%%20post_url%202012-09-19-howto-smokebomb.zh%20%}">中文版</a></p>
+
+<p>This is the whole process of making a simple smokebomb.</p>
+
+<p>Materials:</p>
+
+<p>KNO<sub>3</sub>, normal sugar, Karo syrup, tap water, paper box</p>
+
+<p>Tools:</p>
+
+<p>Pot, gas stove, salt, glass bowl, stirring rod, asbestos-free wire gauze, lighter, 50mL volumetric cylinder,
+balance<del>, hand</del>, gloves, iron wire, tongs.</p>
+
+<p>Procedures:</p>
+
+<ol>
+<li>Use the balance to measure 60 grams of KNO<sub>3</sub> and 40 grams of 
+sugar and put them into the glass bowl</li>
+<li>Add 30mL of water</li>
+<li>Put a layer of salt on the pot</li>
+<li>Put the bowl on the salt</li>
+<li>Put the pot on the stove, use the smallest fire to heat and use the 
+stirring rod to stir
+<li>When boiled, put about 1mL of syrup into the bowl
+<li>If there are lots of bubbles, put out the fire and continue to stir. When 
+bubbles stop producing, start the fire again
+<li>About 40 minutes later, there are lots of solid, speed up the stirring
+<li>When the surface of solid look smooth, start testing: put out the fire, 
+continue to stir, and use tongs to take a little piece of solid and wait for it 
+to cool down. If the solid can be cracked, then the fuel is done.
+<li>When the solid in the bowl is cooler, use <del>hands</del> gloves to remove 
+the solid and place into the paper box
+<li>Wait until fully cooled down.
+<li>Done!
+</ol>
+
+
+<p>This is using recrystalization, so the quality of fuel is VERY good. If use the
+lighter to heat the iron wire and poke the wire into the piece of fuel used to
+test, it burns quickly and releases lots of smoke and remains nothing.
+Great effects!</p>
+]]></content>
+  </entry>
+  
+</feed>
