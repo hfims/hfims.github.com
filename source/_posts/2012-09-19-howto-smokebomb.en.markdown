@@ -1,0 +1,45 @@
+---
+layout: post
+title: Activity 1--Smokebomb
+category: howto
+---
+
+[中文版]({% post_url 2012-09-19-howto-smokebomb.zh %})
+
+This is the whole process of making a simple smokebomb.
+
+Materials:
+
+KNO<sub>3</sub>, normal sugar, Karo syrup, tap water, paper box
+
+Tools:
+
+Pot, gas stove, salt, glass bowl, stirring rod, asbestos-free wire gauze, lighter, 50mL volumetric cylinder,
+balance<del>, hand</del>, gloves, iron wire, tongs.
+
+Procedures:
+<ol>
+<li>Use the balance to measure 60 grams of KNO<sub>3</sub> and 40 grams of 
+sugar and put them into the glass bowl</li>
+<li>Add 30mL of water</li>
+<li>Put a layer of salt on the pot</li>
+<li>Put the bowl on the salt</li>
+<li>Put the pot on the stove, use the smallest fire to heat and use the 
+stirring rod to stir
+<li>When boiled, put about 1mL of syrup into the bowl
+<li>If there are lots of bubbles, put out the fire and continue to stir. When 
+bubbles stop producing, start the fire again
+<li>About 40 minutes later, there are lots of solid, speed up the stirring
+<li>When the surface of solid look smooth, start testing: put out the fire, 
+continue to stir, and use tongs to take a little piece of solid and wait for it 
+to cool down. If the solid can be cracked, then the fuel is done.
+<li>When the solid in the bowl is cooler, use <del>hands</del> gloves to remove 
+the solid and place into the paper box
+<li>Wait until fully cooled down.
+<li>Done!
+</ol>
+This is using recrystalization, so the quality of fuel is VERY good. If use the 
+lighter to heat the iron wire and poke the wire into the piece of fuel used to 
+test, it burns quickly and releases lots of smoke and remains nothing.
+Great effects!
+
