@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Activity 1--Smokebomb
+title: "Activity 1--Smokebomb"
+date: 2012-09-19 12:00
+comments: true
 category: howto
 ---
 

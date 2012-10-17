@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 活动1：烟雾弹
+date: 2012-09-19 12:00
+comments: true
 category: howto-CHN
 ---
 
