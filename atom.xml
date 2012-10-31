@@ -4,7 +4,7 @@
   <title><![CDATA[HFI 科学狂人官网--Mad Scientists Official Site]]></title>
   <link href="http://hfims.github.com/atom.xml" rel="self"/>
   <link href="http://hfims.github.com/"/>
-  <updated>2012-10-31T18:28:51+08:00</updated>
+  <updated>2012-10-31T19:14:03+08:00</updated>
   <id>http://hfims.github.com/</id>
   <author>
     <name><![CDATA[Rongcui Dong]]></name>
@@ -18,13 +18,18 @@
     <link href="http://hfims.github.com/blog/2012/10/16/smokebomb-video.zh/"/>
     <updated>2012-10-16T00:00:00+08:00</updated>
     <id>http://hfims.github.com/blog/2012/10/16/smokebomb-video.zh</id>
-    <content type="html"><![CDATA[<a href="http://hfims.github.com/blog/2012/10/16/smokebomb-video.en/">English Version</a>
-历经千辛万苦，烟雾弹视频出炉啦！(720p)看这里：
-<br>
-<video id="HFI_Mad_Scientists_Exp1_Smokebomb" class="video-js vjs-default-skin"
-    controls width=640>
+    <content type="html"><![CDATA[<p><a href="http://hfims.github.com/blog/2012/10/16/smokebomb-video.en/">English Version</a></p>
+
+<p>历经千辛万苦，烟雾弹视频出炉啦！(720p)看这里：</p>
+
+<div>
+<video id="HFI_Mad_Scientists_Exp1_Smokebomb" class="video-js vjs-default-skin" controls width=640>
     <source src="http://hfims.github.com/videos/HFIMadScientists-Exp1-SmokeBomb.mp4" type='video/mp4' />
 </video>
+</div>
+
+
+
 ]]></content>
   </entry>
   
@@ -33,13 +38,16 @@
     <link href="http://hfims.github.com/blog/2012/10/16/smokebomb-video.en/"/>
     <updated>2012-10-16T00:00:00+08:00</updated>
     <id>http://hfims.github.com/blog/2012/10/16/smokebomb-video.en</id>
-    <content type="html"><![CDATA[<a href="http://hfims.github.com/blog/2012/10/16/smokebomb-video.zh/">中文版</a>
-After days of uploading, the video of smokebomb is coming! (720p)
-<br>
+    <content type="html"><![CDATA[<p><a href="http://hfims.github.com/blog/2012/10/16/smokebomb-video.zh/">中文版</a>
+After days of uploading, the video of smokebomb is coming! (720p)</p>
+
+<div>
 <video id="HFI_Mad_Scientists_Exp1_Smokebomb" class="video-js vjs-default-skin"
     controls width=640>
     <source src="http://hfims.github.com/videos/HFIMadScientists-Exp1-SmokeBomb.mp4" type='video/mp4' />
 </video>
+</div>
+
 ]]></content>
   </entry>
   
@@ -54,7 +62,7 @@ After days of uploading, the video of smokebomb is coming! (720p)
 
 <p>原料：</p>
 
-<p>分析纯KNO3, 普通白糖，美国原装进口Karo玉米糖浆（可以用聚乙烯醇代替），自来水，盒子</p>
+<p>分析纯KNO<sub>3</sub>, 普通白糖，美国原装进口Karo玉米糖浆（可以用聚乙烯醇代替），自来水，盒子</p>
 
 <p>工具：</p>
 
