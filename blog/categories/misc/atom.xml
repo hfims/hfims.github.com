@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: misc | HFI 科学狂人官网--Mad Scientists Official Site]]></title>
+  <link href="http://hfims.github.com/blog/categories/misc/atom.xml" rel="self"/>
+  <link href="http://hfims.github.com/"/>
+  <updated>2012-11-05T13:34:00+08:00</updated>
+  <id>http://hfims.github.com/</id>
+  <author>
+    <name><![CDATA[Rongcui Dong]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[成功让干扰GDIFY网速的家伙下地狱了！]]></title>
+    <link href="http://hfims.github.com/blog/2012/11/05/killed-GDIFY-ARP-atk/"/>
+    <updated>2012-11-05T13:29:00+08:00</updated>
+    <id>http://hfims.github.com/blog/2012/11/05/killed-GDIFY-ARP-atk</id>
+    <content type="html"><![CDATA[<p>感谢Dan和Steve的提醒，我查了下ARP，果然有人使用P2P终结者等软件。经过WireShark抓包，
+获得其MAC地址：f0:4d:a2:fb:81:c4 。 然后用Linux（神器！）的pktgen把它轰炸下了地狱!
+网速立即恢复。现给出正确网管地址与IP：</p>
+
+<p>IP 192.168.2.1
+MAC 3c:e5:a6:01:7b:3f</p>
+]]></content>
+  </entry>
+  
+</feed>
