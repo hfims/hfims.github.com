@@ -4,7 +4,7 @@
   <title><![CDATA[HFI 科学狂人官网--Mad Scientists Official Site]]></title>
   <link href="http://hfims.github.com/atom.xml" rel="self"/>
   <link href="http://hfims.github.com/"/>
-  <updated>2012-11-05T13:34:00+08:00</updated>
+  <updated>2012-11-05T13:36:21+08:00</updated>
   <id>http://hfims.github.com/</id>
   <author>
     <name><![CDATA[Rongcui Dong]]></name>
@@ -22,8 +22,9 @@
 获得其MAC地址：f0:4d:a2:fb:81:c4 。 然后用Linux（神器！）的pktgen把它轰炸下了地狱!
 网速立即恢复。现给出正确网管地址与IP：</p>
 
-<p>IP 192.168.2.1
-MAC 3c:e5:a6:01:7b:3f</p>
+<p>IP 192.168.2.1</p>
+
+<p>MAC 3c:e5:a6:01:7b:3f</p>
 ]]></content>
   </entry>
   
