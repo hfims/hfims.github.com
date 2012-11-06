@@ -75,7 +75,8 @@ VideoJS.options = {
   // techOrder: ["flash","html5"],
 
   html5: {},
-  flash: { swf: "http://vjs.zencdn.net/c/video-js.swf" },
+  //flash: { swf: "http://vjs.zencdn.net/c/video-js.swf" }
+  flash:{swf: "./flash/video-js.swf"},
 
   // Default of web browser is 300x150. Should rely on source width/height.
   width: "auto",
@@ -135,7 +136,7 @@ VideoJS.options = {
 
 // Set CDN Version of swf
 if (CDN_VERSION != "GENERATED_CDN_VSN") {
-  _V_.options.flash.swf = "http://vjs.zencdn.net/"+CDN_VERSION+"/video-js.swf"
+//  _V_.options.flash.swf = "http://vjs.zencdn.net/"+CDN_VERSION+"/video-js.swf"
 }_V_.merge = function(obj1, obj2, safe){
   // Make sure second object exists
   if (!obj2) { obj2 = {}; };

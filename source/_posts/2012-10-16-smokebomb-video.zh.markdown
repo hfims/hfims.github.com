@@ -11,7 +11,7 @@ category: videos
 <!--More-->
 
 <div>
-<video id="HFI_Mad_Scientists_Exp1_Smokebomb" class="video-js vjs-default-skin" controls width=640 preload="none">
+<video id="HFI_Mad_Scientists_Exp1_Smokebomb" class="video-js vjs-default-skin" width="640" height="360" controls preload="metadata" data-setup="{}">
     <source src="/videos/HFIMadScientists-Exp1-SmokeBomb.mp4" type='video/mp4' />
 </video>
 </div>
