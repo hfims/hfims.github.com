@@ -4,7 +4,7 @@
   <title><![CDATA[HFI 科学狂人官网--Mad Scientists Official Site]]></title>
   <link href="http://hfims.github.com/atom.xml" rel="self"/>
   <link href="http://hfims.github.com/"/>
-  <updated>2012-11-06T20:08:17+08:00</updated>
+  <updated>2012-11-06T20:12:27+08:00</updated>
   <id>http://hfims.github.com/</id>
   <author>
     <name><![CDATA[Rongcui Dong]]></name>
@@ -20,7 +20,7 @@
     <id>http://hfims.github.com/blog/2012/11/06/testing</id>
     <content type="html"><![CDATA[<!--More-->
 <br>
-<video class="video-js vjs-default-skin" id="player" width="640" controls="contrtols" preload="none">
+<video class="video-js vjs-default-skin" id="player" width="640" controls="contrtols" preload="none" data-setup="{}">
   <source type="video/mp4" src="http://hfims.github.com/videos/HFIMadScientists-Exp1-SmokeBomb.mp4" />
 </video>
 
