@@ -4,7 +4,7 @@
   <title><![CDATA[HFI 科学狂人官网--Mad Scientists Official Site]]></title>
   <link href="http://hfims.github.com/atom.xml" rel="self"/>
   <link href="http://hfims.github.com/"/>
-  <updated>2012-11-05T16:32:01+08:00</updated>
+  <updated>2012-11-06T19:51:55+08:00</updated>
   <id>http://hfims.github.com/</id>
   <author>
     <name><![CDATA[Rongcui Dong]]></name>
@@ -12,6 +12,40 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Testing]]></title>
+    <link href="http://hfims.github.com/blog/2012/11/06/testing/"/>
+    <updated>2012-11-06T00:00:00+08:00</updated>
+    <id>http://hfims.github.com/blog/2012/11/06/testing</id>
+    <content type="html"><![CDATA[<!--More-->
+<br>
+<video class="video-js vjs-default-skin" id="player" width="640" controls="contrtols" preload="none">
+  <source type="video/mp4" src="http://hfims.github.com/videos/HFIMadScientists-Exp1-SmokeBomb.mp4" />
+</video>
+<!--
+<script>
+// JavaScript object for later use
+var player = new MediaElementPlayer('#player',/* Options */);
+// ... more code ...
+player.pause();
+player.play();
+</script>
+&#8211;>
+<!--
+<video id="example_video_1" class="video-js vjs-default-skin"  
+  controls preload="none" width="640" height="264"  
+  data-setup='{"example_option":true}'>  
+ <source src="http://video-js.zencoder.com/oceans-clip.mp4" type='video/mp4' />  
+
+ <source src="http://video-js.zencoder.com/oceans-clip.webm" type='video/webm' />  
+ <source src="http://video-js.zencoder.com/oceans-clip.ogv" type='video/ogg' />  
+ 
+</video>
+&#8211;>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[成功让干扰GDIFY网速的家伙下地狱了！]]></title>
@@ -63,6 +97,11 @@
 
 <p>历经千辛万苦，烟雾弹视频出炉啦！(720p)看这里：</p>
 
+<!--More-->
+
+
+
+
 <div>
 <video id="HFI_Mad_Scientists_Exp1_Smokebomb" class="video-js vjs-default-skin" controls width=640 preload="none">
     <source src="http://hfims.github.com/videos/HFIMadScientists-Exp1-SmokeBomb.mp4" type='video/mp4' />
@@ -82,9 +121,14 @@
     <content type="html"><![CDATA[<p><a href="http://hfims.github.com/blog/2012/10/16/smokebomb-video.zh/">中文版</a>
 After days of uploading, the video of smokebomb is coming! (720p)</p>
 
-<div>
-<video id="HFI_Mad_Scientists_Exp1_Smokebomb" class="video-js vjs-default-skin"
-    controls width=640 preload="none">
+<!--More-->
+
+
+
+
+<div id=player_box>
+<video id="HFI_Mad_Scientists_Exp1_Smokebomb" class="video-js vjs-default-skin" controls width=640 preload="none">
+    <source src="http://hfims.github.com/videos/HFIMadScientists-Exp1-SmokeBomb.ogv" type='video/ogg' />
     <source src="http://hfims.github.com/videos/HFIMadScientists-Exp1-SmokeBomb.mp4" type='video/mp4' />
 </video>
 </div>
