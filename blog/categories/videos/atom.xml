@@ -4,7 +4,7 @@
   <title><![CDATA[Category: videos | HFI 科学狂人官网--Mad Scientists Official Site]]></title>
   <link href="http://hfims.github.com/blog/categories/videos/atom.xml" rel="self"/>
   <link href="http://hfims.github.com/"/>
-  <updated>2012-11-06T20:38:16+08:00</updated>
+  <updated>2012-11-07T12:56:40+08:00</updated>
   <id>http://hfims.github.com/</id>
   <author>
     <name><![CDATA[Rongcui Dong]]></name>
@@ -52,7 +52,7 @@ After days of uploading, the video of smokebomb is coming! (720p)</p>
 
 
 <div>
-<video id="HFI_Mad_Scientists_Exp1_Smokebomb" class="video-js vjs-default-skin" controls width=640 preload="none" data-setup="{}">
+<video id="HFI_Mad_Scientists_Exp1_Smokebomb" class="video-js vjs-default-skin" controls width=640 height=360 preload="none" data-setup="{}">
     <source src="http://hfims.github.com/videos/HFIMadScientists-Exp1-SmokeBomb.mp4" type='video/mp4' />
 </video>
 </div>

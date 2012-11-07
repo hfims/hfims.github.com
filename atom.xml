@@ -4,7 +4,7 @@
   <title><![CDATA[HFI 科学狂人官网--Mad Scientists Official Site]]></title>
   <link href="http://hfims.github.com/atom.xml" rel="self"/>
   <link href="http://hfims.github.com/"/>
-  <updated>2012-11-06T20:38:16+08:00</updated>
+  <updated>2012-11-07T12:56:40+08:00</updated>
   <id>http://hfims.github.com/</id>
   <author>
     <name><![CDATA[Rongcui Dong]]></name>
@@ -14,28 +14,13 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Testing]]></title>
-    <link href="http://hfims.github.com/blog/2012/11/06/testing/"/>
-    <updated>2012-11-06T00:00:00+08:00</updated>
-    <id>http://hfims.github.com/blog/2012/11/06/testing</id>
-    <content type="html"><![CDATA[<!--More-->
-<br>
-<video class="video-js vjs-default-skin" id="player" width="640" 
-controls="contrtols" preload="none" data-setup="{}">
-  <source type="video/mp4" src="http://hfims.github.com/videos/HFIMadScientists-Exp1-SmokeBomb.mp4" />
-</video>
-
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[成功让干扰GDIFY网速的家伙下地狱了！]]></title>
     <link href="http://hfims.github.com/blog/2012/11/05/killed-GDIFY-ARP-atk/"/>
     <updated>2012-11-05T13:29:00+08:00</updated>
     <id>http://hfims.github.com/blog/2012/11/05/killed-GDIFY-ARP-atk</id>
     <content type="html"><![CDATA[<p>感谢Dan和Steve的提醒，我查了下ARP，果然有人使用P2P终结者等软件。经过WireShark抓包，
 获得其MAC地址：f0:4d:a2:fb:81:c4 。 然后用Linux（神器！）的pktgen把它轰炸下了地狱!
-网速立即恢复。现给出正确网管地址与IP：</p>
+网速立即恢复。现给出正确网关地址与IP：</p>
 
 <p>IP 192.168.2.1</p>
 
@@ -108,7 +93,7 @@ After days of uploading, the video of smokebomb is coming! (720p)</p>
 
 
 <div>
-<video id="HFI_Mad_Scientists_Exp1_Smokebomb" class="video-js vjs-default-skin" controls width=640 preload="none" data-setup="{}">
+<video id="HFI_Mad_Scientists_Exp1_Smokebomb" class="video-js vjs-default-skin" controls width=640 height=360 preload="none" data-setup="{}">
     <source src="http://hfims.github.com/videos/HFIMadScientists-Exp1-SmokeBomb.mp4" type='video/mp4' />
 </video>
 </div>
