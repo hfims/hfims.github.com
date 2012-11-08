@@ -4,7 +4,7 @@
   <title><![CDATA[HFI 科学狂人官网--Mad Scientists Official Site]]></title>
   <link href="http://hfims.github.com/atom.xml" rel="self"/>
   <link href="http://hfims.github.com/"/>
-  <updated>2012-11-07T12:56:40+08:00</updated>
+  <updated>2012-11-08T20:29:05+08:00</updated>
   <id>http://hfims.github.com/</id>
   <author>
     <name><![CDATA[Rongcui Dong]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Added Creative Commons 3.0 License]]></title>
+    <link href="http://hfims.github.com/blog/2012/11/08/added-creative-commons-3-dot-0-license.zh/"/>
+    <updated>2012-11-08T20:21:00+08:00</updated>
+    <id>http://hfims.github.com/blog/2012/11/08/added-creative-commons-3-dot-0-license.zh</id>
+    <content type="html"><![CDATA[<p>Now our site completely uses Creative Commons 3.0 License! Great!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[添加了Creative Commons 3.0 协议]]></title>
+    <link href="http://hfims.github.com/blog/2012/11/08/added-creative-commons-3-dot-0-license.en/"/>
+    <updated>2012-11-08T20:21:00+08:00</updated>
+    <id>http://hfims.github.com/blog/2012/11/08/added-creative-commons-3-dot-0-license.en</id>
+    <content type="html"><![CDATA[<p>现在我们的网站使用了Creative Commons 3.0 协议！</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[成功让干扰GDIFY网速的家伙下地狱了！]]></title>
