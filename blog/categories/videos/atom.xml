@@ -4,7 +4,7 @@
   <title><![CDATA[Category: videos | HFI 科学狂人官网--Mad Scientists Official Site]]></title>
   <link href="http://hfims.github.com/blog/categories/videos/atom.xml" rel="self"/>
   <link href="http://hfims.github.com/"/>
-  <updated>2012-11-08T20:29:05+08:00</updated>
+  <updated>2012-11-16T22:58:25+08:00</updated>
   <id>http://hfims.github.com/</id>
   <author>
     <name><![CDATA[Rongcui Dong]]></name>
@@ -20,21 +20,12 @@
     <id>http://hfims.github.com/blog/2012/10/16/smokebomb-video.zh</id>
     <content type="html"><![CDATA[<p><a href="/blog/2012/10/16/smokebomb-video.en/">English Version</a></p>
 
-<p>历经千辛万苦，烟雾弹视频出炉啦！(720p)看这里：</p>
+<p>历经千辛万苦，烟雾弹视频出炉啦！(Youku 256p)看这里：</p>
 
 <!--More-->
 
 
-
-
-<div>
-<video id="HFI_Mad_Scientists_Exp1_Smokebomb" class="video-js vjs-default-skin" width="640" height="360" controls preload="metadata" data-setup="{}">
-    <source src="http://hfims.github.com/videos/HFIMadScientists-Exp1-SmokeBomb.mp4" type='video/mp4' />
-</video>
-</div>
-
-
-
+<p><a href="http://player.youku.com/player.php/sid/XNDc0OTEyNTMy/v.swf">http://player.youku.com/player.php/sid/XNDc0OTEyNTMy/v.swf</a></p>
 ]]></content>
   </entry>
   
@@ -44,19 +35,12 @@
     <updated>2012-10-16T00:00:00+08:00</updated>
     <id>http://hfims.github.com/blog/2012/10/16/smokebomb-video.en</id>
     <content type="html"><![CDATA[<p><a href="/blog/2012/10/16/smokebomb-video.zh/">中文版</a>
-After days of uploading, the video of smokebomb is coming! (720p)</p>
+After days of uploading, the video of smokebomb is coming! (Youku, 256p)</p>
 
 <!--More-->
 
 
-
-
-<div>
-<video id="HFI_Mad_Scientists_Exp1_Smokebomb" class="video-js vjs-default-skin" controls width=640 height=360 preload="none" data-setup="{}">
-    <source src="http://hfims.github.com/videos/HFIMadScientists-Exp1-SmokeBomb.mp4" type='video/mp4' />
-</video>
-</div>
-
+<p><a href="http://player.youku.com/player.php/sid/XNDc0OTEyNTMy/v.swf">http://player.youku.com/player.php/sid/XNDc0OTEyNTMy/v.swf</a></p>
 ]]></content>
   </entry>
   
