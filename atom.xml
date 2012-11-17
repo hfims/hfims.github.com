@@ -4,7 +4,7 @@
   <title><![CDATA[HFI 科学狂人官网--Mad Scientists Official Site]]></title>
   <link href="http://hfims.github.com/atom.xml" rel="self"/>
   <link href="http://hfims.github.com/"/>
-  <updated>2012-11-16T22:58:25+08:00</updated>
+  <updated>2012-11-17T23:50:30+08:00</updated>
   <id>http://hfims.github.com/</id>
   <author>
     <name><![CDATA[Rongcui Dong]]></name>
@@ -12,6 +12,48 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[圣诞晚会节目准备日程表]]></title>
+    <link href="http://hfims.github.com/blog/2012/11/17/schedule-for-christmas-program.zh/"/>
+    <updated>2012-11-17T23:32:00+08:00</updated>
+    <id>http://hfims.github.com/blog/2012/11/17/schedule-for-christmas-program.zh</id>
+    <content type="html"><![CDATA[<p>这是圣诞晚会节目<em>噪音乐团</em>的日程表。<strong>注意</strong>如果某部分期限前没有完成即会<strong>跳过</strong>，
+然后使用备用计划！！</p>
+
+<ol>
+<li>十一月18-24,等离子扬声器初测（备用：普通扬声器+等离子火炬）</li>
+<li>十一月25-十二月1,轨道炮初测（备用：就是不用了。）</li>
+<li>十二月2-8,选取，准备混音器以及等离子扬声器表演机。</li>
+<li>十二月9-15,乐器准备以及轨道炮零号机。</li>
+<li>十二月16-19,<strong>练习！！！</strong></li>
+<li><strong>十二月20,炸飞他们！！！！！</strong></li>
+</ol>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Schedule for Christmas Program]]></title>
+    <link href="http://hfims.github.com/blog/2012/11/17/schedule-for-christmas-program.en/"/>
+    <updated>2012-11-17T23:32:00+08:00</updated>
+    <id>http://hfims.github.com/blog/2012/11/17/schedule-for-christmas-program.en</id>
+    <content type="html"><![CDATA[<p>This is the schedule for our Christmas Party program <em>Noise</em>. <strong>IF</strong> one part
+cannot be finished before deadline, we will go <strong>DIRECTLY</strong> into fallback plan.</p>
+
+<ol>
+<li>November 18-24, Plasma speaker test (Fallback: normal speaker + plasma
+torch)</li>
+<li>November 25-December 1, Railgun test (Fallback: Not using railgun.)</li>
+<li>December 2-8, Song selection, sound tracks mixer and plasma speaker final
+device.</li>
+<li>December 9-15, musical instruments and railgun final device.</li>
+<li>December 16-19, <strong>PRACTISE!</strong></li>
+<li><strong>December 20, BLOW&#8217;EM UP!!</strong></li>
+</ol>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Added Creative Commons 3.0 License]]></title>
