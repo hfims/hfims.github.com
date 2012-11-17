@@ -6,13 +6,8 @@ category: videos
 ---
 <a href="{% post_url 2012-10-16-smokebomb-video.en %}">English Version</a>
 
-历经千辛万苦，烟雾弹视频出炉啦！(720p)看这里：
+历经千辛万苦，烟雾弹视频出炉啦！(Youku 256p)看这里：
 
 <!--More-->
 
-<div>
-<video id="HFI_Mad_Scientists_Exp1_Smokebomb" class="video-js vjs-default-skin" width="640" height="360" controls preload="metadata" data-setup="{}">
-    <source src="/videos/HFIMadScientists-Exp1-SmokeBomb.mp4" type='video/mp4' />
-</video>
-</div>
-
+<http://player.youku.com/player.php/sid/XNDc0OTEyNTMy/v.swf>
